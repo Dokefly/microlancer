@@ -1,0 +1,4 @@
+html2text
+tinydb
+telepot
+requests
